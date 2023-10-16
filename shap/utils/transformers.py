@@ -42,6 +42,7 @@ MODELS_FOR_CAUSAL_LM = [
         "transformers.TFXLNetLMHeadModel",
         "transformers.TFXLMWithLMHeadModel",
         "transformers.TFCTRLLMHeadModel",
+        "transformers.LlamaForCausalLM"
     ]
 
 MODELS_FOR_MASKED_LM = [
